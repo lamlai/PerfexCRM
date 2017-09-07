@@ -116,7 +116,7 @@ $lang["num_word_zillion"] ="Trăm nghìn tỷ";
 $lang["num_word_cents"] ="Cent";
 $lang["number_word_and"] ="và";
 
-// Show in invoices and estimates
+// Show in invoices and estimates.
 $lang["num_word"] ="Bằng chữ";
 
 $currencies = array(
