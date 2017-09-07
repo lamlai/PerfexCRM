@@ -301,7 +301,6 @@ $lang['payment_edit_amount_received'] = 'Số tiền nhận được';
 $lang['payment_edit_date']            = 'Ngày thực hiện thanh toán';
 $lang['payment_edit_lave_note']       = 'Để lại ghi chú';
 
-
 # Knowledge Base
 $lang['kb_article_add_edit_subject'] = 'Chủ đề';
 $lang['kb_article_add_edit_group']   = 'Phân nhóm';
