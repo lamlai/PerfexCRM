@@ -1,6 +1,6 @@
 <?php
 # Version 1.0.0
-#
+# Translated by dammaynho.com
 # General
 $lang['id']                   = 'ID';
 $lang['name']                 = 'Tên';
@@ -527,10 +527,10 @@ $lang['settings_sales_postal_code']          = 'Mã bưu chính';
 $lang['settings_sales_phonenumber']          = 'Điện thoại';
 
 # Leads
-$lang['new_lead']       = 'Khách tìm năng mới';
-$lang['leads']          = 'Khách tìm năng';
-$lang['lead']           = 'Khách tìm năng';
-$lang['lead_lowercase'] = 'Khách tìm năng';
+$lang['new_lead']       = 'Khách tiềm năng mới';
+$lang['leads']          = 'Khách tiềm năng';
+$lang['lead']           = 'Khách tiềm năng';
+$lang['lead_lowercase'] = 'Khách tiềm năng';
 $lang['leads_all']      = 'Tất cả';
 
 $lang['leads_canban_notes']  = 'Ghi chú: %s';
@@ -554,7 +554,7 @@ $lang['leads_status_add_edit_name']  = 'Tên trạng thái';
 $lang['leads_status_add_edit_order'] = 'Thứ tự';
 
 $lang['lead_statuses_not_found']      = 'Không tìm thấy trạng thái mục tiêu nào';
-$lang['leads_search']                 = 'Tìm Khách tìm năng';
+$lang['leads_search']                 = 'Tìm Khách tiềm năng';
 
 $lang['leads_table_total'] = 'Tổng số mục tiêu: %s';
 
@@ -569,7 +569,7 @@ $lang['lead_add_edit_name']                 = 'Tên';
 $lang['lead_add_edit_email']                = 'Địa chỉ email';
 $lang['lead_add_edit_phonenumber']          = 'Điện thoại';
 $lang['lead_add_edit_source']               = 'Nguồn';
-$lang['lead_add_edit_status']               = 'Trạng thái Khách tìm năng';
+$lang['lead_add_edit_status']               = 'Trạng thái Khách tiềm năng';
 $lang['lead_add_edit_assigned']             = 'Người tạo';
 $lang['lead_add_edit_datecontacted']        = 'Ngày liên hệ';
 $lang['lead_add_edit_contacted_today']      = 'Đã liên hệ hôm nay';
@@ -615,7 +615,7 @@ $lang['wd_sunday']    = 'Chủ nhật';
 # Admin Left Sidebar
 $lang['als_dashboard'] = 'Bảng tin';
 $lang['als_clients']   = 'Khách hàng';
-$lang['als_leads']     = 'Khách tìm năng';
+$lang['als_leads']     = 'Khách tiềm năng';
 
 $lang['als_contracts'] = 'Hợp đồng';
 
@@ -1457,7 +1457,7 @@ $lang['calendar_customer_reminder']                     = 'Nhắc nhở khách h
 $lang['calendar_event']                               = 'Sự kiện';
 $lang['calendar_task']                                = 'Phân công';
 # Leads
-$lang['lead_edit_delete_tooltip']                     = 'Xóa Khách tìm năng';
+$lang['lead_edit_delete_tooltip']                     = 'Xóa Khách tiềm năng';
 $lang['lead_attachments']                             = 'Tập tin đính kèm';
 # Admin Customizer Sidebar
 $lang['acs_finance']                                  = 'Tài chính';
@@ -1474,7 +1474,7 @@ $lang['settings_custom_pdf_logo_image_url_tooltip']   = 'Có thể bạn sẽ g�
 $lang['sale_agent_string']               = 'Người bán';
 $lang['amount_display_in_base_currency'] = 'Tổng số được hiển thị theo đơn vị tiền mà bạn chọn - Chỉ sử dụng báo cáo này nếu bạn đang dùng chung 1 loại đơn vị cho thanh toán và Chi phí.';
 # Leads
-$lang['leads_summary']                                         = 'Tổng quan Khách tìm năng';
+$lang['leads_summary']                                         = 'Tổng quan Khách tiềm năng';
 
 # Contracts
 $lang['contract_value']                 = 'Giá trị hợp đồng';
@@ -1559,7 +1559,7 @@ $lang['goal_failed']   = 'Thất bại';
 $lang['goal_close']    = 'Rất gần';
 
 $lang['goal_type_total_income']                                         = 'Đạt được tổng thu nhập';
-$lang['goal_type_convert_leads']                                        = 'Chuyển X Khách tìm năng';
+$lang['goal_type_convert_leads']                                        = 'Chuyển X Khách tiềm năng';
 $lang['goal_type_increase_customers_without_leads_conversions']         = 'Gia tăng lượng khách';
 $lang['goal_type_increase_customers_without_leads_conversions_subtext'] = 'Không cần liên hệ mục tiêu';
 
@@ -1642,7 +1642,7 @@ $lang['expenses_report_for']                                         = 'Thu chi 
 # Custom fields
 $lang['custom_field_required']                                       = 'Bắt buộc';
 $lang['custom_field_show_on_pdf']                                    = 'Hiển thị trên PDF';
-$lang['custom_field_leads']                                          = 'Khách tìm năng';
+$lang['custom_field_leads']                                          = 'Khách tiềm năng';
 $lang['custom_field_customers']                                      = 'Khách hàng';
 $lang['custom_field_staff']                                          = 'Nhân viên';
 $lang['custom_field_contracts']                                      = 'Hợp đồng';
@@ -1828,7 +1828,7 @@ $lang['leads_email_integration_default_status']                      = 'Trạng 
 $lang['leads_email_integration_folder']                              = 'Thư mục';
 $lang['leads_email_integration_notify_when_lead_imported']           = 'Tông báo khi có mục tiêu được nhập';
 $lang['leads_email_integration_only_check_unseen_emails']            = 'Chỉ kiểm tra thư chưa được mở';
-$lang['leads_email_integration_only_check_unseen_emails_help']       = 'Hệ thống sẽ tự động chuyển thư sang trạng thái đã xem sau khi kiểm tra, nhằm tránh việc mở đi mở lại thư cũ nhiều lần. Không khuyến khích bỏ tick chức năng này nếu bạn có quá nhiều thư và thiết lập quá nhiều chuyển tiếp đến email bạn đã thiết lập trong Khách tìm năng';
+$lang['leads_email_integration_only_check_unseen_emails_help']       = 'Hệ thống sẽ tự động chuyển thư sang trạng thái đã xem sau khi kiểm tra, nhằm tránh việc mở đi mở lại thư cũ nhiều lần. Không khuyến khích bỏ tick chức năng này nếu bạn có quá nhiều thư và thiết lập quá nhiều chuyển tiếp đến email bạn đã thiết lập trong Khách tiềm năng';
 $lang['leads_email_integration_notify_when_lead_contact_more_times'] = 'Thông báo nếu mục tiêu gửi thư nhiều lần';
 $lang['leads_email_integration_test_connection']                     = 'Kiểm tra đường truyền IMAP';
 $lang['lead_email_connection_ok']                                    = 'Đường truyền IMAP ổn định';
@@ -1915,7 +1915,7 @@ $lang['default_pass_clients_import'] = 'Mật khẩu mặc định cho tất c�
 $lang['simulate_import']             = 'Mô phỏng dữ liệu nhập vào';
 $lang['import_upload_failed']        = 'Đăng tải thất bại';
 $lang['import_total_imported']       = 'Tổng số đã nhập: %s';
-$lang['import_leads']                = 'Nhập Khách tìm năng';
+$lang['import_leads']                = 'Nhập Khách tiềm năng';
 $lang['import_customers']            = 'Nhập khách hàng';
 $lang['choose_csv_file']             = 'Chọn tập tin CSV';
 $lang['import']                      = 'Nhập tập tin';
@@ -1937,7 +1937,7 @@ $lang['new_ticket'] = 'Yêu cầu mới';
 
 # Reminders
 $lang['client_edit_set_reminder_title'] = 'Thêm nhắc nhở khách hàng';
-$lang['lead_set_reminder_title']        = 'Thêm nhắc nhở Khách tìm năng';
+$lang['lead_set_reminder_title']        = 'Thêm nhắc nhở Khách tiềm năng';
 $lang['set_reminder_tooltip']           = 'Chức năng này cho phép bạn không bao giờ quên mọi thứ về khách hàng.';
 $lang['client_reminders_tab']           = 'Nhắc nhở';
 $lang['leads_reminders_tab']            = 'Nhắc nhở';
@@ -1971,7 +1971,7 @@ $lang['reminder_deleted']                                         = 'Đã xóa n
 $lang['reminder_failed_to_delete']                                = 'Xóa nhắc nhở không thành công';
 $lang['show_invoice_estimate_status_on_pdf']                      = 'Hiển thị trạng thái hóa đơn/báo giá trên tập tin PDF';
 $lang['email_piping_default_priority']                            = 'Mức độ ưu tiên mặc định cho yêu cầu liên kết';
-$lang['show_lead_reminders_on_calendar']                          = 'Nhắc nhở Khách tìm năng';
+$lang['show_lead_reminders_on_calendar']                          = 'Nhắc nhở Khách tiềm năng';
 $lang['tickets_piping']                                           = 'Email liên kết';
 $lang['email_piping_only_replies']                                = 'Chỉ những phản hồi được email cho phép';
 $lang['email_piping_only_registered']                             = 'Chỉ liên kết với người dùng đã đăng kí';
@@ -2194,7 +2194,7 @@ $lang['not_goal_message_success'] = 'Chúc mừng! Chúng ta đã đạt đượ
 <br />Số thành tựu tổng cộng: %s
 <br />Ngày bắt đầu: %s
 <br />Ngày kết thúc: %s';
-$lang['not_assigned_lead_to_you'] = 'đã chỉ định Khách tìm năng %s cho bạn';
+$lang['not_assigned_lead_to_you'] = 'đã chỉ định Khách tiềm năng %s cho bạn';
 $lang['not_lead_activity_assigned_to'] = '%s được chỉ định cho %s';
 $lang['not_lead_activity_attachment_deleted'] = 'Tập tin đính kèm đã xóa';
 $lang['not_lead_activity_status_updated'] = '%s đã cập nhật trạng thái mục tiêu từ %s sang %s';
@@ -2324,13 +2324,13 @@ $lang['home_stats_by_project_status'] = 'Thống kế theo trạng thái dự á
 $lang['home_invoice_overview'] = 'Tổng quan hóa đơn';
 $lang['home_estimate_overview'] = 'Tổng quan báo giá';
 $lang['home_proposal_overview'] = 'Tổng quan đề xuất dự án';
-$lang['home_lead_overview'] = 'Tổng quan Khách tìm năng';
+$lang['home_lead_overview'] = 'Tổng quan Khách tiềm năng';
 
 $lang['home_my_projects'] = 'Dự án của tôi';
 $lang['home_announcements'] = 'Thông báo';
 
 # Settings
-$lang['settings_leads_kanban_limit'] = 'Giới hạn hiển thị số dòng Kan Ban của Khách tìm năng cho mỗi trạng thái';
+$lang['settings_leads_kanban_limit'] = 'Giới hạn hiển thị số dòng Kan Ban của Khách tiềm năng cho mỗi trạng thái';
 $lang['settings_group_misc'] = 'Khác';
 $lang['show_projects_on_calendar'] = 'Dự án';
 $lang['settings_media_max_file_size_upload'] = 'Dung lượng tối đa có thể đăng tải lên Media (MB)';
@@ -3222,7 +3222,7 @@ $lang['tax_breakdown'] = 'Phân tích thuế';
 $lang['payments_received'] = 'Thanh toán đã nhận';
 $lang['not_lead_activity_created_proposal'] = 'Tạo đề xuất kế hoạch mới - %s';
 $lang['lead_title'] = 'Vị trí';
-$lang['lead_address'] = 'Đại chỉ';
+$lang['lead_address'] = 'Địa chỉ';
 $lang['lead_city'] = 'Thành phố';
 $lang['lead_state'] = 'Tiểu bang';
 $lang['lead_country'] = 'Quốc gia';
